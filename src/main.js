@@ -2,4 +2,4 @@
 
 const arithmetic = require('./lib/arithmetic');
 
-arithmetic.add(2, 7);
+arithmetic.add(5, 15);
